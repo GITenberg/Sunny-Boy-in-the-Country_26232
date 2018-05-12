@@ -1,0 +1,33 @@
+_repo: Sunny-Boy-in-the-Country_26232
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wrenn, Charles L. (Charles Lewis)
+    birthdate: 1880
+    deathdate: 1952
+    gutenberg_agent_id: '25468'
+    url: http://www.gutenberg.org/2009/agents/25468
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: White, Ramy Allison
+    gutenberg_agent_id: '7681'
+    url: http://www.gutenberg.org/2009/agents/7681
+description: ''
+gutenberg_issued: '2008-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26232'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Travel -- Juvenile fiction'
+- !lcc 'PS'
+title: Sunny Boy in the Country
+url: http://www.gutenberg.org/ebooks/26232
