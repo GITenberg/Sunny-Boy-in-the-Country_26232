@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '7681'
     url: http://www.gutenberg.org/2009/agents/7681
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26232#Sunny-Boy-in-the-Country
 gutenberg_issued: '2008-08-08'
 gutenberg_type: Text
 identifiers:
